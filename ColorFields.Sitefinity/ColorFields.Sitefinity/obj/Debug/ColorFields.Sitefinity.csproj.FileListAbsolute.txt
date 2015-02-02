@@ -1,0 +1,16 @@
+D:\User\Me\Documents\GitHub\Sitefinity-Kendo-Color-Picker\ColorFields.Sitefinity\ColorFields.Sitefinity\obj\Debug\ColorFields.Sitefinity.csprojResolveAssemblyReference.cache
+D:\User\Me\Documents\GitHub\Sitefinity-Kendo-Color-Picker\ColorFields.Sitefinity\ColorFields.Sitefinity\bin\Debug\ColorFields.Sitefinity.dll
+D:\User\Me\Documents\GitHub\Sitefinity-Kendo-Color-Picker\ColorFields.Sitefinity\ColorFields.Sitefinity\bin\Debug\ColorFields.Sitefinity.pdb
+D:\User\Me\Documents\GitHub\Sitefinity-Kendo-Color-Picker\ColorFields.Sitefinity\ColorFields.Sitefinity\bin\Debug\Telerik.Sitefinity.dll
+D:\User\Me\Documents\GitHub\Sitefinity-Kendo-Color-Picker\ColorFields.Sitefinity\ColorFields.Sitefinity\bin\Debug\Telerik.Sitefinity.Model.dll
+D:\User\Me\Documents\GitHub\Sitefinity-Kendo-Color-Picker\ColorFields.Sitefinity\ColorFields.Sitefinity\bin\Debug\Telerik.Sitefinity.Personalization.dll
+D:\User\Me\Documents\GitHub\Sitefinity-Kendo-Color-Picker\ColorFields.Sitefinity\ColorFields.Sitefinity\bin\Debug\Telerik.Sitefinity.Resources.dll
+D:\User\Me\Documents\GitHub\Sitefinity-Kendo-Color-Picker\ColorFields.Sitefinity\ColorFields.Sitefinity\bin\Debug\Telerik.Sitefinity.Search.dll
+D:\User\Me\Documents\GitHub\Sitefinity-Kendo-Color-Picker\ColorFields.Sitefinity\ColorFields.Sitefinity\bin\Debug\Telerik.Sitefinity.Services.Comments.dll
+D:\User\Me\Documents\GitHub\Sitefinity-Kendo-Color-Picker\ColorFields.Sitefinity\ColorFields.Sitefinity\bin\Debug\Telerik.Sitefinity.Services.Documents.dll
+D:\User\Me\Documents\GitHub\Sitefinity-Kendo-Color-Picker\ColorFields.Sitefinity\ColorFields.Sitefinity\bin\Debug\Telerik.Sitefinity.Services.Events.dll
+D:\User\Me\Documents\GitHub\Sitefinity-Kendo-Color-Picker\ColorFields.Sitefinity\ColorFields.Sitefinity\bin\Debug\Telerik.Sitefinity.Services.Notifications.dll
+D:\User\Me\Documents\GitHub\Sitefinity-Kendo-Color-Picker\ColorFields.Sitefinity\ColorFields.Sitefinity\bin\Debug\Telerik.Sitefinity.Services.Statistics.dll
+D:\User\Me\Documents\GitHub\Sitefinity-Kendo-Color-Picker\ColorFields.Sitefinity\ColorFields.Sitefinity\bin\Debug\Telerik.Sitefinity.Utilities.dll
+D:\User\Me\Documents\GitHub\Sitefinity-Kendo-Color-Picker\ColorFields.Sitefinity\ColorFields.Sitefinity\obj\Debug\ColorFields.Sitefinity.dll
+D:\User\Me\Documents\GitHub\Sitefinity-Kendo-Color-Picker\ColorFields.Sitefinity\ColorFields.Sitefinity\obj\Debug\ColorFields.Sitefinity.pdb
